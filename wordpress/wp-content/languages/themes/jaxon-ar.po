@@ -1,0 +1,360 @@
+# Translation of Themes - Jaxon in Arabic
+# This file is distributed under the same license as the Themes - Jaxon package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-01-27 14:31:06+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n == 0) ? 0 : ((n == 1) ? 1 : ((n == 2) ? 2 : ((n % 100 >= 3 && n % 100 <= 10) ? 3 : ((n % 100 >= 11 && n % 100 <= 99) ? 4 : 5))));\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: ar\n"
+"Project-Id-Version: Themes - Jaxon\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Jaxon is a contemporary, minimalistic theme that fully supports full-site-editing. Its versatility makes it suitable for a variety of purposes such as blogs, small businesses, startups, agencies, firms, e-commerce shops, personal portfolio sites, and more. It includes a selection of design patterns and multiple style options."
+msgstr "Jaxon هو قالب معاصر وبسيط يدعم تمامًا تحرير الموقع بالكامل. مناسب لمجموعة متنوعة من الأغراض مثل المدونات والشركات الصغيرة والشركات الناشئة والوكالات والشركات ومحلات التجارة الإلكترونية ومواقع قائمة مشاريع الشخصية والمزيد. يتضمن مجموعة مختارة من أنماط التصميم وخيارات أنماط متعددة."
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Jaxon"
+msgstr "Jaxon"
+
+#: styles/sunset-orange.json
+msgctxt "Style variation name"
+msgid "Sunset Orange"
+msgstr "برتقالي غروب الشمس"
+
+#: styles/sherpa-blue.json
+msgctxt "Style variation name"
+msgid "Sherpa Blue"
+msgstr "أزرق شربة"
+
+#: styles/sapphire.json
+msgctxt "Style variation name"
+msgid "Sapphire"
+msgstr "الياقوت"
+
+#: styles/electric-violet.json
+msgctxt "Style variation name"
+msgid "Electric Violet"
+msgstr "البنفسج الكهربائي"
+
+#: styles/blue-ribbon.json
+msgctxt "Style variation name"
+msgid "Blue Ribbon"
+msgstr "شريط أزرق"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "التذييل"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "الترويسة"
+
+#: styles/blue-ribbon.json styles/electric-violet.json styles/sapphire.json
+#: styles/sherpa-blue.json styles/sunset-orange.json theme.json
+msgctxt "Color name"
+msgid "Accent"
+msgstr "تمييز"
+
+#: styles/blue-ribbon.json styles/electric-violet.json styles/sapphire.json
+#: styles/sherpa-blue.json styles/sunset-orange.json theme.json
+msgctxt "Color name"
+msgid "Foreground Alt"
+msgstr "مقدمة البديل"
+
+#: styles/blue-ribbon.json styles/electric-violet.json styles/sapphire.json
+#: styles/sherpa-blue.json styles/sunset-orange.json theme.json
+msgctxt "Color name"
+msgid "Background Dark"
+msgstr "خلفية داكنة"
+
+#: styles/blue-ribbon.json styles/electric-violet.json styles/sapphire.json
+#: styles/sherpa-blue.json styles/sunset-orange.json theme.json
+msgctxt "Color name"
+msgid "Background Alt"
+msgstr "خلفية البديل"
+
+#: styles/blue-ribbon.json styles/electric-violet.json styles/sapphire.json
+#: styles/sherpa-blue.json styles/sunset-orange.json theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr "‏‏المقدمة"
+
+#: styles/blue-ribbon.json styles/electric-violet.json styles/sapphire.json
+#: styles/sherpa-blue.json styles/sunset-orange.json theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr "الخلفية"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Lora"
+msgstr "لورا"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Outfit"
+msgstr "ملابس"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Figtree"
+msgstr "شجرة التين"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Source Serif Pro"
+msgstr "Source Serif Pro"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Readex Pro"
+msgstr "Readex Pro"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Huge"
+msgstr "ضخم"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "كبير جداً"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "كبير"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "متوسط"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Normal"
+msgstr "عادي"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "صغير"
+
+#: inc/patterns/two-columns-with-testimonials.php:28
+msgid "Selected client testimonials"
+msgstr "شهادات العملاء المختارة"
+
+#: inc/patterns/two-columns-with-testimonials.php:20
+msgid "Two columns with testimonials"
+msgstr "عمودين مع الشهادات"
+
+#: inc/patterns/two-columns-with-images-and-text.php:46
+#: inc/patterns/two-columns-with-images-and-text.php:68
+msgid "Read more"
+msgstr "اقرأ المزيد"
+
+#: inc/patterns/two-columns-with-images-and-text.php:25
+msgid "Product Reviews"
+msgstr "مراجعات المنتج"
+
+#: inc/patterns/two-columns-with-images-and-text.php:20
+msgid "Two columns with images and text"
+msgstr "عمودين بالصور والنص"
+
+#: inc/patterns/three-columns-with-testimonials.php:26
+msgid "Clients Testimonials"
+msgstr "شهادات العملاء"
+
+#: inc/patterns/three-columns-with-testimonials.php:20
+msgid "Three columns with testimonials"
+msgstr "ثلاثة أعمدة مع الشهادات"
+
+#: inc/patterns/three-columns-with-products.php:92
+msgid "Buy Now"
+msgstr "اشتري الآن"
+
+#: inc/patterns/three-columns-with-products.php:20
+msgid "Three columns with products"
+msgstr "ثلاثة أعمدة مع المنتجات"
+
+#: inc/patterns/row-with-logos.php:38
+msgid "Row with logos"
+msgstr "صف مع الشعارات"
+
+#: inc/patterns/posts-in-a-three-column-grid.php:35
+msgid "No Posts were found"
+msgstr "لم يتم العثور على مقالات."
+
+#: inc/patterns/posts-in-a-three-column-grid.php:21
+msgid "Latest Posts"
+msgstr "أحدث المقالات"
+
+#: inc/patterns/posts-in-a-three-column-grid.php:16
+msgid "Posts in a three column grid"
+msgstr "مقالات في شبكة من ثلاثة أعمدة"
+
+#: inc/patterns/hero-cover-with-title-and-image.php:39
+msgid "This is a button"
+msgstr "هذا زر"
+
+#: inc/patterns/hero-cover-with-title-and-image.php:19
+msgid "Hero cover with title and button"
+msgstr "غلاف البطل مع العنوان والزر"
+
+#: inc/patterns/features-with-icons.php:59
+msgid "Warranty"
+msgstr "ضمان"
+
+#: inc/patterns/features-with-icons.php:45
+msgid "High Quality"
+msgstr "جودة عالية"
+
+#: inc/patterns/features-with-icons.php:31
+msgid "Fast Delivery"
+msgstr "توصيل سريع"
+
+#: inc/patterns/features-with-icons.php:18
+msgid "Features with icons"
+msgstr "الميزات مع الأيقونات"
+
+#: inc/patterns/categories-with-description-and-images.php:80
+msgid "Blouses"
+msgstr "Blouses"
+
+#: inc/patterns/categories-with-description-and-images.php:68
+msgid "Winter"
+msgstr "شتاء"
+
+#: inc/patterns/categories-with-description-and-images.php:56
+msgid "Casual"
+msgstr "غير رسمية"
+
+#: inc/patterns/categories-with-description-and-images.php:44
+msgid "Elegant"
+msgstr "انيقة"
+
+#: inc/patterns/categories-with-description-and-images.php:25
+msgid "Popular Categories"
+msgstr "التصنيفات الشعبية"
+
+#: inc/patterns/categories-with-description-and-images.php:18
+msgid "Categories with description and images"
+msgstr "تصنيفات مع الوصف والصور"
+
+#: inc/patterns/call-to-action-inverted.php:16
+msgid "Call to action inverted"
+msgstr "الدعوة إلى اتخاذ إجراء معكوسة"
+
+#: inc/patterns/call-to-action-boxed.php:31
+msgid "Shop now"
+msgstr "تسوق الآن"
+
+#: inc/patterns/call-to-action-boxed.php:16
+msgid "Call to action boxed"
+msgstr "الدعوة إلى اتخاذ إجراء في المربع"
+
+#: inc/patterns/alternating-layout-with-image-and-description.php:40
+#: inc/patterns/alternating-layout-with-image-and-description.php:78
+#: inc/patterns/call-to-action-inverted.php:26
+msgid "Shop Now"
+msgstr "تسوق الآن"
+
+#: inc/patterns/alternating-layout-with-image-and-description.php:31
+#: inc/patterns/alternating-layout-with-image-and-description.php:69
+#: inc/patterns/three-columns-with-products.php:31
+#: inc/patterns/three-columns-with-products.php:55
+#: inc/patterns/three-columns-with-products.php:79
+msgid "Product Name"
+msgstr "اسم المنتج"
+
+#: inc/patterns/alternating-layout-with-image-and-description.php:20
+msgid "Alternating layout with image and description"
+msgstr "تبديل التخطيط بالصورة والوصف"
+
+#: inc/Core.php:90
+msgid "Primary Menu"
+msgstr "القائمة الأساسية"
+
+#: inc/Block_Patterns.php:62
+msgid "Jaxon Patterns"
+msgstr "أنماط Jaxon"
+
+#: inc/Admin.php:66 inc/Admin.php:187
+msgid "Learn More"
+msgstr "تعلم المزيد"
+
+#. translators: %s: Otter Blocks
+#: inc/Admin.php:182
+msgid "Install & Activate %s"
+msgstr "التنصيب والتفعيل %s"
+
+#. translators: %s: Otter Blocks
+#: inc/Admin.php:180
+msgid "Activate %s"
+msgstr "تفعيل %s"
+
+#: inc/Admin.php:170
+msgid "Otter is a Gutenberg Blocks page builder plugin that adds extra functionality to the WordPress Block Editor (also known as Gutenberg) for a better page building experience without the need for traditional page builders."
+msgstr "Otter هو مكون إضافي منشئ صفحات مكوّنات Gutenberg  يضيف وظائف إضافية إلى مُحرر مكوّنات ووردبريس (المعروف أيضًا باسم Gutenberg) للحصول على تجربة بناء صفحات أفضل دون الحاجة إلى منشئي الصفحات التقليديين."
+
+#. translators: %s: Otter Blocks
+#: inc/Admin.php:166
+msgid "Power up your website building experience with %s!"
+msgstr "عزز تجربة انشاء موقع الويب الخاص بك مع %s!"
+
+#: inc/Admin.php:160
+msgid "Otter Blocks preview"
+msgstr "معاينة مكوّنات Otter"
+
+#: inc/Admin.php:152
+msgid "Done"
+msgstr "تم"
+
+#: inc/Admin.php:151
+msgid "Installing"
+msgstr "جاري التنصيب"
+
+#: inc/Admin.php:150
+msgid "Activating"
+msgstr "جارٍ التفعيل"
+
+#. translators: %s: commands to run the theme
+#: functions.php:105
+msgid "You appear to be running the Jaxon theme from source code. Please finish installation by running %s."
+msgstr "يبدو أنك تقوم بتشغيل قالب Jaxon من التعليمات البرمجية المصدر. الرجاء إنهاء التنصيب عن طريق تشغيل %s."
+
+#: functions.php:57
+msgid "upgrading PHP to the latest version"
+msgstr "ترقية PHP إلى أحدث نسخة"
+
+#. translators: %s message to upgrade PHP to the latest version
+#: functions.php:53
+msgid "Hey, we've noticed that you're running an outdated version of PHP which is no longer supported. Make sure your site is fast and secure, by %1$s. Jaxon's minimal requirement is PHP%2$s."
+msgstr "مرحبًا ، لقد لاحظنا أنك تقوم بتشغيل إصدار قديم من PHP لم يعد مدعومًا. تأكد من أن موقعك سريع وآمن ، بحلول%1$s. الحد الأدنى لمتطلبات Jaxon هو PHP%2$s."
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://themeisle.com"
+msgstr "https://themeisle.com"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "ThemeIsle"
+msgstr "قالب الجزيرة (ThemeIsle)"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://themeisle.com/themes/jaxon/"
+msgstr "https://themeisle.com/themes/jaxon/"
